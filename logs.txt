@@ -1,0 +1,21 @@
+*   8286260 resolved merge conflict
+|\  
+| | *   58b479e Merge pull request #12 from TeaKochoska/9-mark-all-tasks-in-a-category-as-completed
+| | |\  
+| | | * da98f67 Merge branch 'master' into 9-mark-all-tasks-in-a-category-as-completed
+| | |/| 
+| |/|/  
+| | *   531ac63 Merge pull request #11 from TeaKochoska/7-count-tasks-per-category
+| | |\  
+| | | * 3a9cdef Implement countTasksPerCategory method
+| | * |   38e0a3d Merge pull request #10 from TeaKochoska/4-sort-tasks-by-priority
+| | |\ \  
+| |_|/ /  
+|/| | /   
+| | |/    
+* | / 89e26b7 Implement sortTaskByPriority
+| |/  
+|/|   
+| * 57281ec Implement markCategoryCompleted method
+|/  
+* 99b8871 Add starter code
